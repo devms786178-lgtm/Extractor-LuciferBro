@@ -4,34 +4,34 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "25318125"))
+API_ID = int(os.environ.get("API_ID", "38498066"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","b29fb6a928e8b8a3308f8c2d3ba9cfb0")
+API_HASH = os.environ.get("API_HASH","c9696114751feacdeb1b4487f5839a1a")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@LUCIFEREXTRACTORBOT")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Cinderella_Air_ExtractBot")
 BOT_TEXT = "TXT EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7764674199"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8446475678"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002610898117"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003597599758"))
 
 # //FORCE_CHANNEL_ID
-#CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002799217873")) 
+#CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003964052713")) 
 # -----------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://devms786178_db_user:cEtMdLjmHF5EM2Pf@cluster0.xbqyvnn.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002844381920"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004291233454"))
 # -----------------------------------------------
-join = '<a href="https://t.me/urs_lucifer">✳️ Bᴀᴄᴋᴜᴘ</a>'
+join = '<a href="https://t.me/SmartBoy_ApnaMS">😎 Developer</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "LUCIFEREXTRACTORBOT" #without @
+ADMIN_BOT_USERNAME = "Cinderella_Air_ExtractBot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://graph.org/file/2fbd9fda0f646b1422f05-218a2421d48d601d10.jpg")
 
