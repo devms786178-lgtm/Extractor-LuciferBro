@@ -25,7 +25,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://devms786178_db_user:cEtMd
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004291233454"))
 # -----------------------------------------------
-join = '<a href="https://t.me/SmartBoy_ApnaMS">😎 Developer</a>'
+join = '<a href="https://t.me/TeamCinderella">😎 Developer</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
